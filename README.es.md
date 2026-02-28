@@ -3,19 +3,22 @@
 [![EN](https://img.shields.io/badge/EN-English-blue)](README.md)
 
 ## Qué Resuelve
-Detect security threats in real-time
 
-## Uso
-/threat-detect
+Detect security threats and anomalies in real-time using SIEM and monitoring tools.
 
-## Ejemplos
-1. Example usage for security
+## Cuándo Se Activa
+
+- threat detection, SIEM, intrusion detection
 
 ## Requisitos
-- OpenClaw agent
 
-## Limitaciones
-- Requires specific context
+- Acceso y herramientas apropiadas
+- Contexto relacionado con security
+
+## Ejemplos
+
+
 
 ## Licencia
+
 MIT
